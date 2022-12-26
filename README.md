@@ -5,3 +5,4 @@ Upload File Review Strat
 ## Image 관련 파일 시작
 
 ## file 
+## 12월 26일 JavaScrit-Jquery 관련 리딩
